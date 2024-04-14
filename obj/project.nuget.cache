@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nlQ/puFAXtESMnhk//6tpKLnUCqfeyd7Cmx0Mn93jErFeOhwJY4nmrAuMQRZzHFD9P7wdlWuw3uZf5Jtz1WuvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\MultiDev PDV\\App - Portais Raphanet\\Portais Raphanet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.web.webview2\\1.0.2420.47\\microsoft.web.webview2.1.0.2420.47.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\selenium.webdriver\\4.19.0\\selenium.webdriver.4.19.0.nupkg.sha512"
+  ],
+  "logs": []
+}

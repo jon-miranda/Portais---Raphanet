@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormPortalSocin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdminAutosky.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBigData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormContako.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormElgin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPortalSkyone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSimplificacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPortalSimus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
