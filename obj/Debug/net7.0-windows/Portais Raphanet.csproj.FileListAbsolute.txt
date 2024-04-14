@@ -1,0 +1,39 @@
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\bin\Debug\net7.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\bin\Debug\net7.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\bin\Debug\net7.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\bin\Debug\net7.0-windows\Portais Raphanet.exe
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\bin\Debug\net7.0-windows\Portais Raphanet.deps.json
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\bin\Debug\net7.0-windows\Portais Raphanet.runtimeconfig.json
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\bin\Debug\net7.0-windows\Portais Raphanet.dll
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\bin\Debug\net7.0-windows\Portais Raphanet.pdb
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\bin\Debug\net7.0-windows\WebDriver.dll
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Portais Raphanet.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Test_Winforms_e_Selenium.FormAdminAutosky.resources
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Test_Winforms_e_Selenium.FormBigData.resources
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Test_Winforms_e_Selenium.FormConfirm.resources
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Test_Winforms_e_Selenium.FormContako.resources
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Test_Winforms_e_Selenium.FormElgin.resources
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Test_Winforms_e_Selenium.FormPortalSimus.resources
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Test_Winforms_e_Selenium.FormPortalSkyone.resources
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Test_Winforms_e_Selenium.FormSocin.resources
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Test_Winforms_e_Selenium.FormSimplificacao.resources
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Test_Winforms_e_Selenium.MainForm.resources
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Test_Winforms_e_Selenium.Properties.Resources.resources
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Portais Raphanet.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Portais Raphanet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Portais Raphanet.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Portais Raphanet.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Portais Raphanet.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Portais Raphanet.csproj.CopyComplete
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Portais Raphanet.dll
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\refint\Portais Raphanet.dll
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Portais Raphanet.pdb
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\Portais Raphanet.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\MultiDev PDV\App - Portais Raphanet\obj\Debug\net7.0-windows\ref\Portais Raphanet.dll

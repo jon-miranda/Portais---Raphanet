@@ -130,72 +130,86 @@
             // label1
             // 
             label1.AutoSize = true;
+            label1.Cursor = Cursors.Hand;
             label1.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
             label1.Location = new Point(30, 105);
             label1.Name = "label1";
             label1.Size = new Size(81, 21);
             label1.TabIndex = 6;
             label1.Text = "Confirm8";
+            label1.Click += label1_Click;
             // 
             // label2
             // 
             label2.AutoSize = true;
+            label2.Cursor = Cursors.Hand;
             label2.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label2.Location = new Point(159, 105);
+            label2.Location = new Point(163, 105);
             label2.Name = "label2";
             label2.Size = new Size(102, 21);
             label2.TabIndex = 7;
             label2.Text = "Portal Socin";
+            label2.Click += label2_Click;
             // 
             // label3
             // 
             label3.AutoSize = true;
+            label3.Cursor = Cursors.Hand;
             label3.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
             label3.Location = new Point(318, 105);
             label3.Name = "label3";
             label3.Size = new Size(74, 21);
             label3.TabIndex = 8;
             label3.Text = "Contako";
+            label3.Click += label3_Click;
             // 
             // label4
             // 
             label4.AutoSize = true;
+            label4.Cursor = Cursors.Hand;
             label4.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
             label4.Location = new Point(27, 218);
             label4.Name = "label4";
             label4.Size = new Size(88, 21);
             label4.TabIndex = 9;
             label4.Text = "Chat Elgin";
+            label4.Click += label4_Click;
             // 
             // label5
             // 
             label5.AutoSize = true;
+            label5.Cursor = Cursors.Hand;
             label5.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
             label5.Location = new Point(159, 218);
             label5.Name = "label5";
             label5.Size = new Size(106, 21);
             label5.TabIndex = 10;
             label5.Text = "Portal Simus";
+            label5.Click += label5_Click;
             // 
             // label6
             // 
             label6.AutoSize = true;
+            label6.Cursor = Cursors.Hand;
             label6.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
             label6.Location = new Point(301, 218);
             label6.Name = "label6";
             label6.Size = new Size(110, 21);
             label6.TabIndex = 11;
             label6.Text = "Chat BigData";
+            label6.Click += label6_Click;
             // 
             // label7
             // 
             label7.AutoSize = true;
+            label7.Cursor = Cursors.Hand;
             label7.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label7.Location = new Point(7, 331);
+            label7.Location = new Point(10, 331);
             label7.Name = "label7";
             label7.Size = new Size(127, 21);
             label7.TabIndex = 13;
             label7.Text = "Admin Autosky";
+            label7.Click += label7_Click;
             // 
             // pictureBox1
             // 
@@ -212,12 +226,14 @@
             // label8
             // 
             label8.AutoSize = true;
+            label8.Cursor = Cursors.Hand;
             label8.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label8.Location = new Point(133, 331);
+            label8.Location = new Point(132, 331);
             label8.Name = "label8";
             label8.Size = new Size(164, 21);
             label8.TabIndex = 15;
             label8.Text = "Portal Simplificação";
+            label8.Click += label8_Click;
             // 
             // pictureBox2
             // 
@@ -234,12 +250,14 @@
             // label9
             // 
             label9.AutoSize = true;
+            label9.Cursor = Cursors.Hand;
             label9.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label9.Location = new Point(295, 331);
+            label9.Location = new Point(298, 331);
             label9.Name = "label9";
             label9.Size = new Size(116, 21);
             label9.TabIndex = 17;
             label9.Text = "Portal Skyone";
+            label9.Click += label9_Click;
             // 
             // pictureBox3
             // 
